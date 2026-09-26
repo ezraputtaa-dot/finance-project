@@ -1,0 +1,4 @@
+{
+  "name": "finance-project",
+  "install": "python3 --version\npython3 -m compileall -q ."
+}
