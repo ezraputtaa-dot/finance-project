@@ -1,4 +1,4 @@
 {
   "name": "finance-project",
-  "install": "bash .cursor/scripts/install.sh"
+  "install": "python3 --version\npython3 -m compileall -q ."
 }
